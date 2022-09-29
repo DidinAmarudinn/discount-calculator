@@ -1,0 +1,1 @@
+const String imgDiscount = "assets/img_discount.png";
